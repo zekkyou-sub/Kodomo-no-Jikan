@@ -13,14 +13,14 @@ Video File: ../[Beatrice-Raws] Kodomo no Jikan 01 [DVDRip 1280x720 HEVC AC3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 341
-Active Line: 341
-Video Position: 33564
+Scroll Position: 138
+Active Line: 145
+Video Position: 13778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,a_FuturaRoundDemi,53,&H00FFFFFF,&H0000FFFF,&H002D4458,&H00668DB1,0,0,0,0,90,100,0,0,1,3,1.5,2,18,18,18,204
-Style: Default2,a_FuturaRoundDemi,53,&H00FFFFFF,&H000000FF,&H002D4458,&H00476C8C,0,-1,0,0,90,100,0,0,1,3,1.5,2,18,18,18,204
+Style: Default,Anna,53,&H00FFFFFF,&H0000FFFF,&H002D4458,&H00668DB1,0,0,0,0,90,100,0,0,1,3,1.5,2,18,18,18,204
+Style: Default2,Anna,53,&H00FFFFFF,&H000000FF,&H002D4458,&H00476C8C,0,-1,0,0,90,100,0,0,1,3,1.5,2,18,18,18,204
 Style: Upper,a_FuturaRoundDemi,53,&H00FFFFFF,&H000000FF,&H002D4458,&H00476C8C,0,-1,0,0,90,100,0,0,1,1.5,1.5,8,18,18,15,204
 Style: Mimi-chan,a_FuturaRoundDemi,53,&H00FFFFFF,&H000000FF,&H002D4458,&H00476C8C,0,-1,0,0,90,100,0,0,1,1.5,3,2,18,18,18,204
 Style: Phone,Trebuchet MS,36,&H00FFFFFF,&H000000FF,&H00000000,&H00413F46,-1,0,0,0,90,100,0,0,1,1.5,3,7,18,18,12,204
@@ -28,8 +28,8 @@ Style: Signs1,a_FuturaRoundDemi,47,&H00FFFFFF,&H000000FF,&H00413F46,&H00532ECD,0
 Style: Message,Trebuchet MS,42,&H005F5B57,&H000000FF,&H009E9B98,&H00413F46,-1,0,0,0,90,100,0,0,1,1.5,0,7,18,18,12,204
 Style: Signs2,Trebuchet MS,40,&H00000000,&H000000FF,&H009E9B98,&H00413F46,-1,0,0,0,90,100,0,0,1,0,0,7,18,18,12,204
 Style: SerialName,a_FuturaRoundDemi,93,&H005B00C2,&H000000FF,&H00802E89,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,18,18,12,204
-Style: SeriesName,a_FuturaRoundDemi,47,&H001586E8,&H000000FF,&H00A0DFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,18,18,12,204
-Style: Credits,a_FuturaRoundDemi,44,&H00DBFFD8,&H000000FF,&H002A9518,&H0083A51B,0,0,0,0,85,100,0,0,1,3,3,7,18,18,18,204
+Style: SeriesName,Anna,47,&H001586E8,&H000000FF,&H00A0DFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,18,18,12,204
+Style: Credits,Anna,44,&H00DBFFD8,&H000000FF,&H002A9518,&H0083A51B,0,0,0,0,85,100,0,0,1,3,3,7,18,18,18,204
 
 [Fonts]
 fontname: FUT_0.ttf
@@ -850,7 +850,7 @@ Dialogue: 0,0:00:11.95,0:00:14.57,Default2,,0,0,0,,Sim, essa vai ser minha abord
 Dialogue: 0,0:00:23.54,0:00:27.27,Default2,,0,0,0,,Ei, eu imagino como nosso professor se parece...
 Dialogue: 0,0:00:27.27,0:00:29.05,Default2,,0,0,0,,Estou tão excitada.
 Dialogue: 0,0:00:29.05,0:00:30.64,Default2,,0,0,0,,Espero que ele seja legal.
-Dialogue: 0,0:00:30.64,0:00:35.21,Default2,,0,0,0,,Desde que a grava não seja da mesmo cor do terno está tudo bem, não acha?
+Dialogue: 0,0:00:30.64,0:00:35.21,Default2,,0,0,0,,Desde que a gravata não seja da mesmo cor do terno está tudo bem, não acha?
 Dialogue: 0,0:00:39.66,0:00:40.62,Default,,0,0,0,,Vamos lá!
 Dialogue: 0,0:00:41.75,0:00:42.59,Default,,0,0,0,,Pessoal prazer em... {\alpha&HFF}co... nhe... cer...
 Dialogue: 0,0:00:42.59,0:00:44.21,Default,,0,0,0,,Pessoal prazer em... co... {\alpha&HFF}nhe... cer...
@@ -957,7 +957,7 @@ Dialogue: 0,0:07:13.51,0:07:17.14,Default,,0,0,0,,O nome dele era kotatsu, pois 
 Dialogue: 0,0:07:13.51,0:07:17.14,Phone,,0,0,0,,{\an8}NT — Kotatsu são aquelas mesas rodeadas com um cobertor que serve para esquentar as pernas.
 Dialogue: 0,0:07:18.43,0:07:20.31,Default,,0,0,0,,Que dor!
 Dialogue: 0,0:07:20.60,0:07:22.81,Default,,0,0,0,,Está sangrando...
-Dialogue: 0,0:07:24.31,0:07:26.73,Default,,0,0,0,,Ajudarei a para o sangramento.
+Dialogue: 0,0:07:24.31,0:07:26.73,Default,,0,0,0,,Ajudarei a parar o sangramento.
 Dialogue: 0,0:07:37.67,0:07:38.97,Default2,,0,0,0,,A língua...
 Dialogue: 0,0:07:47.07,0:07:49.30,Default,,0,0,0,,A aula da tarde já vai começar!
 Dialogue: 0,0:07:56.60,0:07:58.68,Default,,0,0,0,,O sangramento ainda parou.
@@ -990,8 +990,8 @@ Dialogue: 0,0:09:17.80,0:09:22.10,Phone,,0,0,0,,{\an8}NT: "Pai pai" — É uma f
 Dialogue: 0,0:09:23.56,0:09:24.93,Default,,0,0,0,,Aoki-sensei
 Dialogue: 0,0:09:26.73,0:09:28.35,Default,,0,0,0,,Bom trabalho, Hoin-sensei.
 Dialogue: 0,0:09:29.06,0:09:32.65,Default,,0,0,0,,Ei... Podemos conversar um pouco?
-Dialogue: 0,0:09:34.65,0:09:37.57,Default,,0,0,0,,Esse é o compêndio que o Nakamura-sensei estava usando.
-Dialogue: 0,0:09:34.65,0:09:37.57,Default,,0,0,0,,{\an8}NT: Livro que engloba os conhecimentos mais importantes da matéria.
+Dialogue: 0,0:09:34.65,0:09:37.57,Default,,0,0,0,,Esse é o compêndio* que o Nakamura-sensei estava usando.
+Dialogue: 0,0:09:34.65,0:09:37.57,Phone,,0,0,0,,{\an8}NT: Livro que engloba os conhecimentos mais importantes da matéria.
 Dialogue: 0,0:09:38.49,0:09:41.20,Default,,0,0,0,,Eu estava fazendo uma limpeza quando...
 Dialogue: 0,0:09:45.37,0:09:48.08,Default,,0,0,0,,Eu já falei com o diretor.
 Dialogue: 0,0:09:48.75,0:09:51.46,Default,,0,0,0,,Mas ele mandou eu não comentar sobre este assunto...
